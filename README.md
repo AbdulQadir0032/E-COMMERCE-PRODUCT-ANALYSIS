@@ -1,4 +1,4 @@
-📊 E-Commerce Product Analysis (Power BI Dashboard)
+#E-Commerce Product Analysis (Power BI Dashboard)
 🧾 Project Overview
 
 This project focuses on analyzing an e-commerce dataset to uncover key business insights such as sales performance, customer behavior, product trends, and monthly growth patterns. The analysis was performed using Power BI, with supporting data cleaning and exploratory analysis done in Python (Jupyter Notebook).
