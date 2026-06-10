@@ -1,4 +1,5 @@
-E-Commerce Product Analysis (Power BI Dashboard)
+# E-Commerce Product Analysis (Power BI Dashboard)
+## <img width="1434" height="812" alt="Screenshot 2026-06-06 161611" src="https://github.com/user-attachments/assets/9b47b693-5fd5-499f-a675-455186650f60" />
 🧾 Project Overview
 
 This project focuses on analyzing an e-commerce dataset to uncover key business insights such as sales performance, customer behavior, product trends, and monthly growth patterns. The analysis was performed using Power BI, with supporting data cleaning and exploratory analysis done in Python (Jupyter Notebook).
@@ -12,7 +13,8 @@ Track Month-over-Month (MoM) growth trends
 Identify top-performing products and categories
 Understand customer purchase behavior
 Provide actionable insights for business improvement
-📁 Dataset Description
+
+## 📁 Dataset Description
 
 The dataset includes transactional e-commerce data with features such as:
 
@@ -38,33 +40,37 @@ The following KPIs were built in Power BI:
 🛒 Total Quantity Sold
 ⭐ Top Products by Sales
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 KPI Cards (Revenue, Orders, MoM Growth)
 Monthly trend analysis
 Top products and categories
 Time-series visualizations
 Interactive slicers (Month, Category, Region)
-🔍 Key Insights
+## 🔍 Key Insights
 Sales show seasonal fluctuations across months
 A small number of products contribute to majority of revenue
 Certain months show significant MoM spikes indicating promotional impact
 Customer purchasing behavior varies strongly by category
-🛠 Tools Used
+## <img width="1441" height="811" alt="Screenshot 2026-06-06 161636" src="https://github.com/user-attachments/assets/b4ffa387-1267-42b4-90f3-764e5b43dfbd" />
+## 🛠 Tools Used
 Power BI (Data Visualization)
 Python (Pandas, Jupyter Notebook)
 Excel (Initial Data Inspection)
 DAX (Time Intelligence Calculations)
-🚀 How to Use
+
+## 🚀 How to Use
 Open the Power BI file (.pbix)
 Load the dataset
 Refresh data if needed
 Interact with filters and visuals to explore insights
+
 📌 Future Improvements
 Add forecasting model for sales prediction
 Include customer segmentation analysis
 Build real-time dashboard using live data connection
 Integrate advanced ML-based demand forecasting
-👤 Author
+
+## 👤 Author
 
 Qadir
 Data Analyst | Machine Learning Engineer
